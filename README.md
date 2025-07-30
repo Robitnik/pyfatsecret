@@ -1,7 +1,5 @@
-> # Looking for new maintainer
->
-> Life and career have taken me in a different direction and I no longer have time to keep this updated. I've attempted to get this merged back into the original with no success. If you're interested in continuing this then let me know.
-
+> # pyfatsecret by Robitnik
+> Rewrite to python3.13 support
 # pyfatsecret
 
 ![status](https://badge.fury.io/py/fatsecret.svg)
@@ -10,17 +8,11 @@ This library provides a lightweight python wrapper for the Fatsecret API with th
 
 ## Installation
 
-Install the module via pip
-
+Install the module via git
 ```sh
-$ pip install fatsecret
+git clone git@github.com:Robitnik/pyfatsecret.git
 ```
 
-or easy_install::
-
-```sh
-$ easy_install fatsecret
-```
 
 ## Config
 
